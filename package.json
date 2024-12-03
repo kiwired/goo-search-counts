@@ -2,7 +2,9 @@
     "name": "goo-search-counts",
     "private": true,
     "scripts": {
-			"start": "node ./src/index.js"
+        "start": "node ./src/index.js"
+    },
+    "dependencies": {
+        "csv-parser": "^3.0.0"
     }
-  }
-  
+}
