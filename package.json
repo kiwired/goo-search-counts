@@ -1,0 +1,8 @@
+{
+    "name": "goo-search-counts",
+    "private": true,
+    "scripts": {
+			"start": "node ./sec/index.js"
+    }
+  }
+  
